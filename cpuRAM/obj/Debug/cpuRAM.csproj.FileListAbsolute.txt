@@ -1,0 +1,15 @@
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\bin\Debug\cpuRAM.exe.config
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\bin\Debug\cpuRAM.exe
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\bin\Debug\cpuRAM.pdb
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\bin\Debug\CircularProgressBar.dll
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\bin\Debug\WinFormAnimation.dll
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\bin\Debug\CircularProgressBar.xml
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.Properties.Resources.resources
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.csproj.GenerateResource.cache
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.csproj.CoreCompileInputs.cache
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.csproj.CopyComplete
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.exe
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.pdb
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.csprojAssemblyReference.cache
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\obj\Debug\cpuRAM.Form1.resources
+C:\temp\c#\CPU RAM\cpuRam\cpuRAM\cpuRAM\bin\Debug\MySql.Data.dll
